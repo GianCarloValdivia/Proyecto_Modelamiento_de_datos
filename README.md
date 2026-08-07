@@ -152,3 +152,11 @@ correo corporativo
 
 Un analista puede gestionar múltiples incidentes.
 
+
+
+
+
+![Modelo Conceptual](ModeloConceptual_imagen.png)
+
+![Modelo Lógico](modelo_logico.png)
+
