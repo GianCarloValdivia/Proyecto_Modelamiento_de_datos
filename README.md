@@ -156,7 +156,7 @@ Un analista puede gestionar múltiples incidentes.
 
 
 
-![Modelo Conceptual](ModeloConceptual_imagen.png)
+![Modelo Conceptual](Docs/ModeloConceptual_imagen.png)
 
-![Modelo Lógico](modelo_logico.png)
+![Modelo Lógico](Docs/modelo_logico.png)
 
