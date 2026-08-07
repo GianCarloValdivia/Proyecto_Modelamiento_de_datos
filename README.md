@@ -151,3 +151,8 @@ cargo
 correo corporativo
 
 Un analista puede gestionar múltiples incidentes.
+<!-- En tu README.md asegúrate de tenerlo así para que carguen correctamente: -->
+
+![Modelo Conceptual](ModeloConceptual_imagen.png)
+
+![Modelo Lógico](modelo_logico.png)
